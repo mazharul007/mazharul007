@@ -1,7 +1,7 @@
 ### Hi there, Mohammad Mazharul Hqoue
 
 - 🔭 I’m a enthusiastic Software Developer.
-- 🌱 I’m currently exploring NestJS,Mongoose,MongoDB, 
+- 🌱 I’m currently exploring NestJS,Mongoose,MongoDB, ReactJS, Rect hook form, Yup 
 - ⚡ Fun fact: I spend 2hrs to learn something new everyday.
 
 :coffee: &emsp;Connect with me!
